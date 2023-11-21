@@ -66,6 +66,20 @@ body {
     background-color: #bbb;
     border-radius: 50%;
     display: inline-block;
+    color: transparent;
+}
+.dot:hover {
+    color: #fff;
+}
+
+.yellow {
+    background-color: #ED594A;
+}
+.green {
+    background-color: #4aed57;
+}
+.blue {
+    background-color: #4a7eed;
 }
 
 
