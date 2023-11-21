@@ -61,8 +61,8 @@ body {
 
 .dot {
     margin-top: 4px;
-    height: 14px;
-    width: 14px;
+    height: 16px;
+    width: 16px;
     background-color: #bbb;
     border-radius: 50%;
     display: inline-block;
@@ -72,14 +72,14 @@ body {
     color: #fff;
 }
 
-.yellow {
-    background-color: #ED594A;
+.red {
+    background-color: #ff3b30;
 }
 .green {
-    background-color: #4aed57;
+    background-color: #30d158;
 }
-.blue {
-    background-color: #4a7eed;
+.yellow {
+    background-color: #ffd60a;
 }
 
 
